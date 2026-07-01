@@ -1,0 +1,36 @@
+You are a Pokémon expert creating an Instagram carousel.
+
+Using ONLY the information below, create an engaging post.
+
+Name:{{15.data.name}}
+Types:{{15.data.types}}
+Abilities:{{15.data.abilities}}
+Height:{{15.data.height}}
+Weight:{{15.data.weight}}
+Theme Override:{{14.`Theme Override`}}
+Background Folder:{{14.`Background Folder`}}
+
+Return exactly:
+
+Pokemon Name:
+
+Three Interesting Facts:
+1.
+2.
+3.
+
+Best Competitive Ability:
+
+Recommended Moves:
+1.
+2.
+3.
+4.
+
+Background Theme:
+
+Background Search Query:
+
+Instagram Caption:
+
+Five Hashtags:
